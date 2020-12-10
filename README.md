@@ -1,7 +1,7 @@
 # CANdiy-Shield
 The CANdiy-Shield is a plug-on module for Arduino with CAN-Bus (Controller Area Network) connectivity.
 
-![CANdiy-Shield](https://github.com/watterott/CANdiy-Shield/raw/master/hardware/CANdiy-Shield_v13.jpg)
+![CANdiy-Shield](pics/CANdiy-Shield_v13.jpg)
 
 * Microchip CAN Controller (SPI)
 * Microchip CAN Transceiver
