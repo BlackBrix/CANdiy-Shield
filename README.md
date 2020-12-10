@@ -20,7 +20,7 @@ The CANdiy-Shield is a plug-on module for Arduino with CAN-Bus (Controller Area 
 
     <!-- -->
 
-- RJ45 Pinout: ![RJ45 Pinout](<can_rj45.png>)
+- RJ45 Pinout: ![RJ45 Pinout](<pics/can_rj45.png>)
 
 <!-- -->
 
